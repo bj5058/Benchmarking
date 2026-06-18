@@ -3,3 +3,8 @@ Date of Test: 2026-06-18 10:14:28
 Bubble Sort Time: 9.337984 seconds
 Quick Sort Time: 0.041873 seconds
 
+Computer Name: Friedrich
+Date of Test: 2026-06-18 10:16:37
+Bubble Sort Time: 6.048884 seconds
+Quick Sort Time: 0.012701 seconds
+
